@@ -1,0 +1,146 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.part1{
+    display: flex;
+    gap: 50px;
+}
+.head{
+    padding-left: 30px;
+    background-color: rgba(0, 0, 255, 0.518);
+    width: 250px;
+    height: 100vh;
+    color: white;
+
+}
+.close i{
+    font-size: 2em;
+    margin-left: 210px;
+    /* color: white; */
+}
+.icon1{
+    display: flex;
+    gap: 9px;
+    margin-top: 80px;
+    color: rgba(0, 255, 204, 0.683);
+}
+.icon1 i{
+    font-size: 1.6em;
+}
+.icon1 h3{
+    font-size: 1.6em;
+}
+.icon2{
+    display: flex;
+    gap: 9px;
+    margin-top: 50px;
+}
+.icon2 i{
+    font-size: 1.6em;
+}
+.icon2 h3{
+    font-size: 1.6em;
+}
+.icon3{
+    display: flex;
+    gap: 9px;
+    margin-top: 50px;
+}
+.icon3 i{
+    font-size: 1.6em;
+}
+.icon3 h3{
+    font-size: 1.6em;
+}
+.icon4{
+    display: flex;
+    gap: 9px;
+    margin-top: 50px;
+}
+.icon4 i{
+    font-size: 1.6em;
+}
+.icon4 h3{
+    font-size: 1.6em;
+}
+.icon5{
+    display: flex;
+    gap: 9px;
+    margin-top: 50px;
+}
+.icon5 i{
+    font-size: 1.6em;
+}
+.icon5 h3{
+    font-size: 1.6em;
+}
+.box{
+    display: flex;
+    gap: 40px;
+    margin: 40px 0px;
+}
+.box1{
+    text-align: center;
+    background-color: burlywood;
+    width: 270px;
+    height: 150px;
+    padding-top: 30px;
+    border-bottom: 5px solid yellow;
+}
+.box1 i{
+    font-size: 2.5em;
+    color: aqua;
+}
+.box1 h1{
+    font-size: 2.6em;
+    margin-top: 10px;
+}
+.box1 h2{
+    font-size: 2em;
+    margin-top: 8px;
+}
+.box2{
+    text-align: center;
+    background-color: greenyellow;
+    width: 270px;
+    height: 150px;
+    padding-top: 30px;
+    border-bottom: 5px solid yellow;
+}
+.box2 i{
+    font-size: 2.5em;
+    color: aqua;
+}
+.box2 h1{
+    font-size: 2.6em;
+    margin-top: 10px;
+}
+.box2 h2{
+    font-size: 2em;
+    margin-top: 8px;
+
+}
+.box3{
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.772);
+    width: 270px;
+    height: 150px;
+    padding-top: 30px;
+    border-bottom: 5px solid yellow;
+}
+.box3 h1{
+    font-size: 3.5em;
+   position: relative;
+   bottom: 10px;
+   color: aqua;
+}
+.box3 h2{
+    font-size: 2em;
+    margin-top: 8px;
+}
+.box3 h3{
+    font-size: 1.4em;
+    margin-top: 8px;
+
+}
